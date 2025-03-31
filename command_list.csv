@@ -1,0 +1,87 @@
+    1  cd ~
+    2  LS
+    3  SD C/
+    4  CD C/
+    5  CD C:/
+    6  CD /C
+    7  cd /c
+    8  /ls
+    9  ;s
+   10  ls
+   11  cd git
+   12  git config --global user,name "Artem Sav"
+   13  git config --global user.name "Artem Sav"
+   14  sass
+   15  git config --global user.email artemsav4@gmail.com
+   16  git clone https://github.com/Sajers/test_report_1.git
+   17  git clone https://github.com/Savjers/test_report_1.git
+   18  git status
+   19  ls
+   20  cd test_report_1/
+   21  touch New.txt
+   22  ls
+   23  git status
+   24  git add New.txt
+   25  git status
+   26  git commit --m "New file is created"
+   27  git status
+   28  git loggit log\
+   29  git log
+   30  git branch
+   31  git checkout -b new_branch
+   32  git branch sa
+   33  git checkout -b main
+   34  git chekou branch main
+   35  git chekout branch main
+   36  git checkout main
+   37  nano new.txt
+   38  nano new.txt
+   39  git status
+   40  git commit -m "New.txt"
+   41  git status
+   42  git status
+   43  git merge new_branch
+   44  git branch
+   45  git status
+   46  git commit
+   47  git commit 
+   48  git commit -m "New modiffied"
+   49  git status
+   50  git push
+   51  cd c/
+   52  cd dc1
+   53  cd c/
+   54  cd c\
+   55  cd c:
+   56  ls
+   57  cd git
+   58  git clone https:/github.com/Savjers/hw_10.git
+   59  git clone https://github.com/Savjers/hw_10.git
+   60  ls
+   61  cd hw_10/
+   62  touch text_ignore.txt
+   63  ls
+   64  nano ,gitignore
+   65  nano .gitignore
+   66  git status
+   67  git add
+   68  git add .
+   69  git commit -m "was added new file to .gitignore"
+   70  touch main_test.txt
+   71  git add .
+   72  git commit -m "was added a new file main_test.txt"
+   73  git status
+   74  git switch -c develop
+   75  touch develop_test.txt
+   76  git add .
+   77  git commit -m "was added new file develop_test.txt"
+   78  nano develop_test.txt
+   79  git status
+   80  git add .
+   81  git add.
+   82  git status
+   83  git commit -m "was changed a develop_test.txt"
+   84  git checkout main
+   85  git branch
+   86  git merge develop
+   87  history > command_list.csv
